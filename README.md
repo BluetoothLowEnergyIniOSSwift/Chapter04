@@ -1,4 +1,4 @@
-# Bluetooth Low Energy with Android and Arduino: 
+# Bluetooth Low Energy in iOS Swift
 
 ## Chapter 4: Scanning and Advertising
 
